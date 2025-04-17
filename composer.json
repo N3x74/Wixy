@@ -1,0 +1,22 @@
+{
+    "name": "n3x74/wixy",
+    "description": "A complete library for interacting with wiki-api.ir",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "7.9.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "N3x74\\Wixy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "N3x74",
+            "email": "4.ho3ein@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "version": "v1.0.0"
+}
