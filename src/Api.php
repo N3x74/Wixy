@@ -7,7 +7,7 @@ use GuzzleHttp\Exception\RequestException;
 
 class Api
 {
-    private string $baseUrl = "https://open.wiki-api.ir/";
+    private string $baseUrl = "https://open.nestcode.org/";
     private string $apiKey;
     private int $apiVersion;
     private Client $client;
