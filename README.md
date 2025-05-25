@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/N3x74/Wixy)](LICENSE)
 [![Packagist](https://img.shields.io/packagist/v/n3x74/wixy)](https://packagist.org/packages/n3x74/wixy)
 
-Wixy is a lightweight PHP SDK for communicating with the [Wiki API](https://wiki-api.ir/).  
+Wixy is a lightweight PHP SDK for communicating with the [Nest API](https://nestcode.org/).  
 It supports versioned API endpoints, built-in error handling, and clean abstraction for your HTTP requests.
 
 ---
@@ -136,7 +136,7 @@ This project is open-sourced under the [MIT license](LICENSE).
 
 ## 🔗 Links
 
-- 🧠 Wiki API: [https://wiki-api.ir/](https://wiki-api.ir/)
+- 🧠 Nest API: [https://nestcode.org/](https://nestcode.org/)
 - 📦 Composer: [https://packagist.org/packages/n3x74/wixy](https://packagist.org/packages/n3x74/wixy)
 - 🧑‍💻 Author: [@N3x74](https://github.com/N3x74)
 - ☁️ telegram: [@N3x74](https://t.me/N3x74)
